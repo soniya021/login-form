@@ -22,9 +22,11 @@ body {
 border-radius: 30px;
   width: 30vw;
   height: 50vh;
-  background-color: mistyrose;
+  background-image:url(/06a36e4d78172aaa5f65f9af2632d040.jpg);
   filter:drop-shadow(0 50px 20px red);
   border: 5px solid red;
+
+  
 }
 .container  input[type="text"] {
    
@@ -40,9 +42,11 @@ border-radius: 30px;
 
 /* Style for label */
  label {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 20px;
-    font-size:30px;
-    color: red;
+    font-size:40px;
+    color: black;
+    letter-spacing: 10px;
     margin-bottom:5px;
     display: block;
 }
